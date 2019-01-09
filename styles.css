@@ -1,7 +1,29 @@
 h1{
-
+    text-align: center;
 }
 
+img {
+    display: block;   
+}
 .kpop{
-    width:400px;
+    width:100%;
+}
+ul {
+    width: 100%;
+}
+li {
+    margin-left: 200px;   
+}
+
+body {
+    background-color:pink;
+    width: 100%;
+}
+ 
+#wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 800px;
+    margin: auto;
 }
